@@ -116,3 +116,10 @@
 | 17/3.1 |         |                |
 | 17/3.2 |         |                |
 | 17/3.3 |         |                |
+
+
+### Фото списков тем для удобства
+![1](https://github.com/NeleIsDead/AMaIHB/blob/main/photo_1_2026-02-03_09-38-47.jpg)
+![2](https://github.com/NeleIsDead/AMaIHB/blob/main/photo_2_2026-02-03_09-38-47.jpg)
+![3](https://github.com/NeleIsDead/AMaIHB/blob/main/photo_3_2026-02-03_09-38-47.jpg)
+![4](https://github.com/NeleIsDead/AMaIHB/blob/main/photo_4_2026-02-03_09-38-47.jpg)
