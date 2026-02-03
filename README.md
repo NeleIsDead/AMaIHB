@@ -1,0 +1,2 @@
+# AMaIHB
+applied_mathematics_and_informatics_history_bullshit
